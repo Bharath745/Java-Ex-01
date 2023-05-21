@@ -45,7 +45,8 @@ public class Main
 }
 ```
 ## Output:-
-![output](op1.png)
+![op1](https://github.com/Bharath745/Java-Ex-01/assets/94508354/97509426-36d6-4ae9-9379-02ad4d3d3ff0)
+
 
 ## Result:-
 A java program to print the Arithmetic operations has been executed Successfully.
